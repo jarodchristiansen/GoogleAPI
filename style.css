@@ -1,0 +1,16 @@
+
+body{
+height:100%;
+width:100%;
+background-color: #ffffff;
+}
+.container {
+    max-height:100%;
+    max-width: 100%;
+}
+ #map {
+    display:flex;
+    float:right;
+    height: 40vh;
+    width: 40vw;
+ }
